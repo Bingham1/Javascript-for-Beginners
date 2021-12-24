@@ -1,1 +1,3 @@
 
+gs.infor('Hello, World');
+
